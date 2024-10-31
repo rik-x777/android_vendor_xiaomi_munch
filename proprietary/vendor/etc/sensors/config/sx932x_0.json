@@ -1,28 +1,3 @@
-{
-  "config":
-  {
-    "hw_platform": ["MTP", "Dragon", "Surf", "HDK", "MUNCH"],
-    "soc_id": ["291", "246", "305", "341", "415", "356"]
-  },
-  "sx932x_0":{
-    "owner": "sx932x_0",
-    ".sar":{
-      "owner": "sx932x_0",
-      ".config":{
-        "owner": "sx932x_0",
-        "is_dri":{ "type": "int", "ver": "0",
-          "data": "0"
-        },
-        "hw_id":{ "type": "int", "ver": "0",
-          "data": "0"
-        },
-        "res_idx":{ "type": "int", "ver": "0",
-          "data": "2"
-        },
-        "sync_stream":{ "type": "int", "ver": "0",
-          "data": "0"
-        }
-      }
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a439e9c3d6be6e07264eda7b73531f46e1154b4f10af29192b0dbc73f0480649
+size 637

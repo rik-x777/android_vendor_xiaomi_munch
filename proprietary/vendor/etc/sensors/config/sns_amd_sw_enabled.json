@@ -1,11 +1,3 @@
-{
-  "config": {
-    "hw_platform": [ "MTP", "Dragon", "Surf", "QRD", "HDK", "MUNCH"],
-    "soc_id": ["291", "246", "305", "321", "336", "347", "341", "355", "360", "365", "366", "393", "394", "400"]
-  },
-  "sns_amd": {
-    "owner": "sns_amd",
-    "enabled": {"ver": "0","type": "int", "data": "1"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:08afe32cc0cccd284cd81ff12eb25d3aa9afb7b3e9c37a05129d2cd8842467b4
+size 309

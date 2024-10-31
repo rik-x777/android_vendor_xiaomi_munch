@@ -1,14 +1,3 @@
-<ellipticSensorSetup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                     xsi:noNamespaceSchemaLocation="elliptic_sensor.xsd">
-  <sensors>
-    <sensor name="Elliptic Proximity" reader="hexagon" sensor_type="8" type="4" subtype="401" audio_notify="ultrasound-proximity" debug="true">
-      <ranges>
-        <near value="0.0" limit="3.0"></near>
-        <far  value="5.0" limit="5.0"></far>
-      </ranges>
-    </sensor>
-  </sensors>
-  <readers>
-    <reader name="hexagon"></reader>
-  </readers>
-</ellipticSensorSetup>
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e759b3aea6f2c31e17feba780e33d6d8e4e13fb11eea519397dfcbe5d6b186b
+size 539

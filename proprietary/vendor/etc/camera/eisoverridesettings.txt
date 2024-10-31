@@ -1,12 +1,3 @@
-EISWidthMargin=0.2
-EISHeightMargin=0.2
-SUPEREISHeightMargin=0.513513
-SUPEREISWidthMargin=0.351351
-SUPEREISUWHeightMargin=0.517
-SUPEREISUWWidthMargin=0.355
-EISLDCGridEnabled=1
-EISv3GyroDumpEnabled=0
-EISv3OperationMode=0
-EISv2GyroDumpEnabled=0
-EISv2OperationMode=0
-EISFrameDelay=30
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1203620e3595d54d4fba270c970e1a9afb37e8f719091d481967204e60d2b66
+size 280

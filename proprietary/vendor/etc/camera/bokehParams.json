@@ -1,21 +1,3 @@
-{
-  "Bokeh_Params": {
-    "Param0": 5,
-    "Param1": 3,
-    "Param2": 5,
-    "Param3": 3,
-    "Param4": 5,
-    "Param5": 2,
-    "Param6": 2,
-    "Param7": 2,
-    "Param8": 0,
-    "Param9": 1,
-    "Param10": 0.005,
-    "Param21": {
-      "Param21_0": 0,
-      "Param21_1": "../data/vendor/camera/",
-      "Param21_2": 100
-    }
-  }
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:176b1d5edad38062c9252129da82f31716ebd17d8e62cdd8772c384f7c77b66f
+size 355

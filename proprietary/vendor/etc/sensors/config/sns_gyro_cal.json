@@ -1,24 +1,3 @@
-{
-  "config": {
-    "hw_platform": ["MTP", "Dragon", "Surf", "QRD", "HDK", "IDP", "MUNCH"],
-    "soc_id": ["291", "246", "300", "301", "305", "321", "336", "347", "339", "341", "355", "356", "360", "361", "365", "366", "393", "394", "400"]
-  },
-  "sns_gyro_cal_config": {
-    "owner": "sns_gyro_cal",
-    "calibration_period": {"type": "int","ver": "0",
-      "data": "60"
-    },
-    "num_samples": {"type": "int","ver": "0",
-      "data": "32"
-    },
-    "variance_threshold": {"type": "flt","ver": "0",
-      "data": "0.00025"
-    },
-    "sample_rate": {"type": "flt","ver": "0",
-     "data": "10.0"
-    },
-    "bias_threshold": {"type": "flt","ver": "0",
-     "data": "0.20"
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8ac39697c193c04d24f24a87b2c3414dcddeb338d9c11af75dd8222a11aa61
+size 690
